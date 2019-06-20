@@ -1,0 +1,386 @@
+[{
+    date: '13/06/2019 02:30 CEST',
+    sport: 'SOCCER',
+    competition: 'CHILE PRIMERA A',
+    event: 'EVERTON VIÑA MAR-COBRESAL',
+    channel: '25-26 [SPA]'
+  },
+  {
+    date: '13/06/2019 02:45 CEST',
+    sport: 'SOCCER',
+    competition: 'COLOMBIA PRIMERA A FINAL',
+    event: 'DEPORTIVO PASTO-ATLETICO JUNIOR',
+    channel: '23-24 [SPA]'
+  },
+  {
+    date: '13/06/2019 18:00 CEST',
+    sport: 'SOCCER',
+    competition: 'FIFA WORLD CUP WOMEN',
+    event: 'AUSTRALIA-BRAZIL',
+    channel: '19-20 [SPA]'
+  },
+  {
+    date: '13/06/2019 21:00 CEST',
+    sport: 'SOCCER',
+    competition: 'FIFA WORLD CUP WOMEN',
+    event: 'SOUTH AFRICA-CHINA',
+    channel: '19-20 [SPA]'
+  },
+  {
+    date: '13/06/2019 21:00 CEST',
+    sport: 'SOCCER',
+    competition: 'SPANISH LA LIGA 2 PLAYOFFS',
+    event: 'REAL MALLORCA-ALBACETE',
+    channel: '1-2 [SPA]'
+  },
+  {
+    date: '23-24 [ENG] undefined',
+    sport: undefined,
+    competition: undefined,
+    event: undefined,
+    channel: '1-2 [SPA]'
+  },
+  {
+    date: '14/06/2019 03:00 CEST',
+    sport: 'BASKETBALL',
+    competition: 'USA NBA FINALS',
+    event: 'GOLDEN STATE WARRIORS-TORONTO RAPTORS',
+    channel: '13-14 [SPA]'
+  },
+  {
+    date: '39-40 [ENG] undefined',
+    sport: undefined,
+    competition: undefined,
+    event: undefined,
+    channel: '13-14 [SPA]'
+  },
+  {
+    date: '14/06/2019 15:00 CEST',
+    sport: 'SOCCER',
+    competition: 'FIFA WORLD CUP WOMEN',
+    event: 'JAPAN-SCOTLAND',
+    channel: '19-20 [SPA]'
+  },
+  {
+    date: '14/06/2019 18:00 CEST',
+    sport: 'SOCCER',
+    competition: 'FIFA WORLD CUP WOMEN',
+    event: 'JAMAICA-ITALY',
+    channel: '19-20 [SPA]'
+  },
+  {
+    date: '14/06/2019 21:00 CEST',
+    sport: 'SOCCER',
+    competition: 'FIFA WORLD CUP WOMEN',
+    event: 'ENGLAND-ARGENTINA',
+    channel: '19-20 [SPA]'
+  },
+  {
+    date: '15/06/2019 02:30 CEST',
+    sport: 'SOCCER',
+    competition: 'COMMEBOL COPA AMERICA',
+    event: 'BRAZIL-BOLIVIA',
+    channel: '17-18 [POR]'
+  },
+  {
+    date: '31-32 [SPA] undefined',
+    sport: undefined,
+    competition: undefined,
+    event: undefined,
+    channel: '17-18 [POR]'
+  },
+  {
+    date: '15/06/2019 12:35 CEST',
+    sport: 'MOTOGP',
+    competition: 'CATALUNYA GP',
+    event: 'MOTO3 QUALIFYING 1',
+    channel: '29-30 [SPA]'
+  },
+  {
+    date: '15/06/2019 13:00 CEST',
+    sport: 'MOTOGP',
+    competition: 'CATALUNYA GP',
+    event: 'MOTO3 QUALIFYING 2',
+    channel: '29-30 [SPA]'
+  },
+  {
+    date: '15/06/2019 14:10 CEST',
+    sport: 'MOTOGP',
+    competition: 'CATALUNYA GP',
+    event: 'MOTOGP QUALIFYING 1',
+    channel: '29-30 [SPA]'
+  },
+  {
+    date: '15/06/2019 14:35 CEST',
+    sport: 'MOTOGP',
+    competition: 'CATALUNYA GP',
+    event: 'MOTOGP QUALIFYING 2',
+    channel: '29-30 [SPA]'
+  },
+  {
+    date: '15/06/2019 15:00 CEST',
+    sport: 'SOCCER',
+    competition: 'FIFA WORLD CUP WOMEN',
+    event: 'NETHERLANDS-CAMEROON',
+    channel: '19-20 [SPA]'
+  },
+  {
+    date: '15/06/2019 15:05 CEST',
+    sport: 'MOTOGP',
+    competition: 'CATALUNYA GP',
+    event: 'MOTO2 QUALIFYING 1',
+    channel: '29-30 [SPA]'
+  },
+  {
+    date: '15/06/2019 15:30 CEST',
+    sport: 'MOTOGP',
+    competition: 'CATALUNYA GP',
+    event: 'MOTO2 QUALIFYING 2',
+    channel: '29-30 [SPA]'
+  },
+  {
+    date: '15/06/2019 21:00 CEST',
+    sport: 'BASKETBALL',
+    competition: 'SPANISH ACB FINALS',
+    event: 'REAL MADRID-FC BARCELONA',
+    channel: '13-14 [SPA]'
+  },
+  {
+    date: '15/06/2019 21:00 CEST',
+    sport: 'SOCCER',
+    competition: 'FIFA WORLD CUP WOMEN',
+    event: 'CANADA-NEW ZEALAND',
+    channel: '19-20 [SPA]'
+  },
+  {
+    date: '15/06/2019 21:00 CEST',
+    sport: 'SOCCER',
+    competition: 'COMMEBOL COPA AMERICA',
+    event: 'VENEZUELA-PERU',
+    channel: '31-32 [SPA]'
+  },
+  {
+    date: '15/06/2019 21:00 CEST',
+    sport: 'SOCCER',
+    competition: 'SPANISH LA LIGA 2 PLAYOFF',
+    event: 'MALAGA-DEPORTIVO LA CORUNA',
+    channel: '1-2 [SPA]'
+  },
+  {
+    date: '23-24 [ENG] undefined',
+    sport: undefined,
+    competition: undefined,
+    event: undefined,
+    channel: '1-2 [SPA]'
+  },
+  {
+    date: '16/06/2019 00:00 CEST',
+    sport: 'SOCCER',
+    competition: 'COMMEBOL COPA AMERICA',
+    event: 'ARGENTINA-COLOMBIA',
+    channel: '17-18 [POR]'
+  },
+  {
+    date: '31-32 [SPA] undefined',
+    sport: undefined,
+    competition: undefined,
+    event: undefined,
+    channel: '17-18 [POR]'
+  },
+  {
+    date: '16/06/2019 01:35 CEST',
+    sport: 'SOCCER',
+    competition: 'CONCACAF GOLD CUP',
+    event: 'CANADA-MARTINIQUE',
+    channel: '7-8 [POR]'
+  },
+  {
+    date: '27-28 [SPA] undefined',
+    sport: undefined,
+    competition: undefined,
+    event: undefined,
+    channel: '7-8 [POR]'
+  },
+  {
+    date: '16/06/2019 02:00 CEST',
+    sport: 'BOXING',
+    competition: 'WORLD CHAMPIONSHIP',
+    event: 'TYSON FURY-TOM SCHWARZ',
+    channel: '33-34 [ENG]'
+  },
+  {
+    date: '16/06/2019 04:05 CEST',
+    sport: 'SOCCER',
+    competition: 'CONCACAF GOLD CUP',
+    event: 'MEXICO-CUBA',
+    channel: '17-18 [POR]'
+  },
+  {
+    date: '27-28 [SPA] undefined',
+    sport: undefined,
+    competition: undefined,
+    event: undefined,
+    channel: '17-18 [POR]'
+  },
+  {
+    date: '16/06/2019 11:00 CEST',
+    sport: 'MOTOGP',
+    competition: 'CATALUNYA GP',
+    event: 'MOTO3 RACE',
+    channel: '29-30 [SPA]'
+  },
+  {
+    date: '16/06/2019 12:20 CEST',
+    sport: 'MOTOGP',
+    competition: 'CATALUNYA GP',
+    event: 'MOTO2 RACE',
+    channel: '29-30 [SPA]'
+  },
+  {
+    date: '16/06/2019 14:00 CEST',
+    sport: 'MOTOGP',
+    competition: 'CATALUNYA GP',
+    event: 'MOTOGP RACE',
+    channel: '29-30 [SPA]'
+  },
+  {
+    date: '16/06/2019 15:00 CEST',
+    sport: 'SOCCER',
+    competition: 'FIFA WORLD CUP WOMEN',
+    event: 'SWEDEN-THAILAND',
+    channel: '19-20 [SPA]'
+  },
+  {
+    date: '16/06/2019 18:00 CEST',
+    sport: 'SOCCER',
+    competition: 'FIFA WORLD CUP WOMEN',
+    event: 'UNITED STATES-CHILE',
+    channel: '19-20 [SPA]'
+  },
+  {
+    date: '16/06/2019 18:30 CEST',
+    sport: 'SOCCER',
+    competition: 'UEFA U-21 CHAMPIONSHIP 2019',
+    event: 'POLAND-BELGIUM',
+    channel: '10-11 [SPA]'
+  },
+  {
+    date: '16/06/2019 19:00 CEST',
+    sport: 'SOCCER',
+    competition: 'SPANISH LA LIGA 2 PLAYOFF',
+    event: 'ALBACETE-REAL MALLORCA',
+    channel: '1-2 [SPA]'
+  },
+  {
+    date: '23-24 [ENG] undefined',
+    sport: undefined,
+    competition: undefined,
+    event: undefined,
+    channel: '1-2 [SPA]'
+  },
+  {
+    date: '16/06/2019 21:00 CEST',
+    sport: 'SOCCER',
+    competition: 'UEFA U-21 CHAMPIONSHIP 2019',
+    event: 'ITALY-SPAIN',
+    channel: '10-11 [SPA]'
+  },
+  {
+    date: '16/06/2019 21:00 CEST',
+    sport: 'SOCCER',
+    competition: 'COMMEBOL COPA AMERICA',
+    event: 'PARAGUAY-QATAR',
+    channel: '17-18 [POR]'
+  },
+  {
+    date: '31-32 [SPA] undefined',
+    sport: undefined,
+    competition: undefined,
+    event: undefined,
+    channel: '17-18 [POR]'
+  },
+  {
+    date: '17/06/2019 02:00 CEST',
+    sport: 'BASKETBALL',
+    competition: 'USA NBA FINALS',
+    event: 'TORONTO RAPTORS-GOLDEN STATE WARRIORS',
+    channel: '13-14 [SPA]'
+  },
+  {
+    date: '39-40 [ENG] undefined',
+    sport: undefined,
+    competition: undefined,
+    event: undefined,
+    channel: '13-14 [SPA]'
+  },
+  {
+    date: '17/06/2019 00:00 CEST',
+    sport: 'SOCCER',
+    competition: 'COMMEBOL COPA AMERICA',
+    event: 'URUGUAY-ECUADOR',
+    channel: '17-18 [POR]'
+  },
+  {
+    date: '31-32 [SPA] undefined',
+    sport: undefined,
+    competition: undefined,
+    event: undefined,
+    channel: '17-18 [POR]'
+  },
+  {
+    date: '17/06/2019 00:05 CEST',
+    sport: 'SOCCER',
+    competition: 'CONCACAF GOLD CUP',
+    event: 'HAITI-BERMUDA',
+    channel: '27-28 [SPA]'
+  },
+  {
+    date: '17/06/2019 02:35 CEST',
+    sport: 'SOCCER',
+    competition: 'CONCACAF GOLD CUP',
+    event: 'COSTA RICA-NICARAGUA',
+    channel: '27-28 [SPA]'
+  },
+  {
+    date: '17/06/2019 18:00 CEST',
+    sport: 'SOCCER',
+    competition: 'FIFA WORLD CUP WOMEN',
+    event: 'CHINA-SPAIN',
+    channel: '19-20 [SPA]'
+  },
+  {
+    date: '17/06/2019 18:30 CEST',
+    sport: 'SOCCER',
+    competition: 'UEFA U-21 CHAMPIONSHIP 2019',
+    event: 'SERBIA-AUSTRIA',
+    channel: '10-11 [SPA]'
+  },
+  {
+    date: '17/06/2019 21:00 CEST',
+    sport: 'BASKETBALL',
+    competition: 'SPANISH ACB FINALS',
+    event: 'REAL MADRID-FC BARCELONA',
+    channel: '13-14 [SPA]'
+  },
+  {
+    date: '17/06/2019 21:00 CEST',
+    sport: 'SOCCER',
+    competition: 'FIFA WORLD CUP WOMEN',
+    event: 'NIGERIA-FRANCE',
+    channel: '19-20 [SPA]'
+  },
+  {
+    date: '17/06/2019 21:00 CEST',
+    sport: 'SOCCER',
+    competition: 'UEFA U-21 CHAMPIONSHIP 2019',
+    event: 'GERMANY-DENMARK',
+    channel: '10-11 [SPA]'
+  },
+  {
+    date: 'Last update: 13/06/2019 01:00 CEST UTC +1 (Paris, Madrid, Brusells) undefined',
+    sport: undefined,
+    competition: undefined,
+    event: undefined,
+    channel: '10-11 [SPA]'
+  }
+]

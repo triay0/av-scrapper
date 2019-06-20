@@ -1,0 +1,21 @@
+{
+  "name": "arenavision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "triay0",
+  "keywords": [
+    "arenavision",
+    "scraping",
+    "links"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nightmare": "^3.0.2"
+  }
+}
